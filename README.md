@@ -26,4 +26,5 @@ words that it can't be based on the letters filled in. Through
 this it narrows in on a good guess.
 
 Games Played: 239
+
 win_rate:0.2594142259414226
